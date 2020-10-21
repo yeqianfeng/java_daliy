@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdf0e9f2-147b-4742-9afc-78fae86c2682" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jBRDluOl2iA02eLsVy2gxP2ymC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.StringTest01">
+    <configuration name="BoobleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daily_java.day01.BoobleSort" />
+      <module name="daliy_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="daily_java.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daily_java.day01.StringTest01" />
+      <module name="daliy_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="daily_java.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringTest01" />
+        <item itemvalue="Application.BoobleSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdf0e9f2-147b-4742-9afc-78fae86c2682" name="Default Changelist" comment="" />
+      <created>1603275380318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603275380318</updated>
+      <workItem from="1603275381646" duration="1637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603275657393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603275657393" />
+    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1603275972663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603275972663" />
+    <state x="540" y="175" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1603275968745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603275968745" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603275966689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603275966689" />
+    <state width="1156" height="274" key="GridCell.Tab.0.bottom" timestamp="1603277021716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603277021716" />
+    <state width="1156" height="274" key="GridCell.Tab.0.center" timestamp="1603277021715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603277021715" />
+    <state width="1156" height="274" key="GridCell.Tab.0.left" timestamp="1603277021715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603277021715" />
+    <state width="1156" height="274" key="GridCell.Tab.0.right" timestamp="1603277021716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603277021716" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1603275988702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603275988702" />
+  </component>
+</project>
